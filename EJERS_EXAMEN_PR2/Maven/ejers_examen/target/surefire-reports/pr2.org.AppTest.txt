@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: pr2.org.AppTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.09 s <<< FAILURE! - in pr2.org.AppTest
+testUnionRec(pr2.org.AppTest)  Time elapsed: 0.011 s  <<< FAILURE!
+java.lang.AssertionError: expected:<[1, 2, 3, 4, 6, 11, 13]> but was:<[]>
+	at pr2.org.AppTest.testUnionRec(AppTest.java:71)
+
